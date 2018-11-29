@@ -1,2 +1,1 @@
-build: make $$ make test
 language: c
